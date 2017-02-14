@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  LSMultiLanguage
+
+  Created by John_LS on 2017/2/14.
+  Copyright © 2017年 John_LS. All rights reserved.
+*/
+
+//商品名称
+PRODUCT_NAME = "苹果手机";

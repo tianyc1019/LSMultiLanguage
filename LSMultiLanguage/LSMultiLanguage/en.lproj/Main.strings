@@ -1,0 +1,14 @@
+
+
+/* Class = "UILabel"; text = "销量："; ObjectID = "Hai-ZP-LFS"; */
+"Hai-ZP-LFS.text" = "Sales：";
+
+/* Class = "UILabel"; text = "时间："; ObjectID = "MoK-fd-rMQ"; */
+"MoK-fd-rMQ.text" = "DateTime：";
+
+/* Class = "UILabel"; text = "商品："; ObjectID = "boi-Dr-gl3"; */
+"boi-Dr-gl3.text" = "Product：";
+
+/* Class = "UILabel"; text = "利润："; ObjectID = "fUN-Aw-url"; */
+"fUN-Aw-url.text" = "profit：";
+
